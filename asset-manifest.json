@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Cine-Verse-App/static/css/main.1dac5fe1.css",
+    "main.js": "/Cine-Verse-App/static/js/main.e8c541f4.js",
+    "index.html": "/Cine-Verse-App/index.html",
+    "main.1dac5fe1.css.map": "/Cine-Verse-App/static/css/main.1dac5fe1.css.map",
+    "main.e8c541f4.js.map": "/Cine-Verse-App/static/js/main.e8c541f4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1dac5fe1.css",
+    "static/js/main.e8c541f4.js"
+  ]
+}
