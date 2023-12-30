@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Cine-Verse-App/static/css/main.314fa762.css",
-    "main.js": "/Cine-Verse-App/static/js/main.27c0cb98.js",
-    "index.html": "/Cine-Verse-App/index.html",
-    "main.314fa762.css.map": "/Cine-Verse-App/static/css/main.314fa762.css.map",
-    "main.27c0cb98.js.map": "/Cine-Verse-App/static/js/main.27c0cb98.js.map"
+    "main.css": "/CineQuik/static/css/main.314fa762.css",
+    "main.js": "/CineQuik/static/js/main.0d26b6eb.js",
+    "index.html": "/CineQuik/index.html",
+    "main.314fa762.css.map": "/CineQuik/static/css/main.314fa762.css.map",
+    "main.0d26b6eb.js.map": "/CineQuik/static/js/main.0d26b6eb.js.map"
   },
   "entrypoints": [
     "static/css/main.314fa762.css",
-    "static/js/main.27c0cb98.js"
+    "static/js/main.0d26b6eb.js"
   ]
 }
